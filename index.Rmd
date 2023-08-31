@@ -10,9 +10,9 @@ title: "Jett Chan's Website"
 
 what is up my dudes welcome to my website
 
-![thumbs up](https://w7.pngwing.com/pngs/543/680/png-transparent-person-thumbs-up-thumb-hand-finger-arm-digit-thumbs-up-photography-thumb-signal-hand-model-thumbnail.png)
+![](https://w7.pngwing.com/pngs/543/680/png-transparent-person-thumbs-up-thumb-hand-finger-arm-digit-thumbs-up-photography-thumb-signal-hand-model-thumbnail.png)
 
 
 real picture of me below
 
-![actually me](https://upload.wikimedia.org/wikipedia/commons/3/35/Basic_human_drawing.png)
+![](https://upload.wikimedia.org/wikipedia/commons/3/35/Basic_human_drawing.png)
