@@ -9,8 +9,6 @@ title: "Jett Chan's Website"
 <!-- Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown. -->
 
 what is up my dudes welcome to my website
-        
-![](https://static-00.iconduck.com/assets.00/thumbs-up-emoji-1905x2048-yh44rgtn.png)
        
 real picture of me below
 
